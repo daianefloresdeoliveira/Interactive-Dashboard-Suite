@@ -1,2 +1,3 @@
-# Interactive-Dashboard-Suite
-A C# Windows Forms app with a dynamic dashboard connecting utility tools like IP Validator, calculator, lottery generator, currency exchange, and temperature converter, offering data validation, file handling, and graphical features for a smooth user experience.
+# A comprehensive C# Windows Forms application featuring a dynamic dashboard that connects to multiple utility apps. These include an IP Validator, a basic calculator, lottery number generators, a currency exchange tool, and a temperature converter. Each app implements interactive features like data validation, file handling, and graphical representation for an intuitive user experience.
+
+Languages Used: C# / .NET Framework
