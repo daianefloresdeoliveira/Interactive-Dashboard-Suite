@@ -1,4 +1,4 @@
-# Utility Dashboard App
+# Interactive Dashboard Suite
 
 A comprehensive **C# Windows Forms** application featuring a dynamic dashboard that connects to multiple utility tools:
 
