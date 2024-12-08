@@ -1,3 +1,15 @@
-# A comprehensive C# Windows Forms application featuring a dynamic dashboard that connects to multiple utility apps. These include an IP Validator, a basic calculator, lottery number generators, a currency exchange tool, and a temperature converter. Each app implements interactive features like data validation, file handling, and graphical representation for an intuitive user experience.
+# Utility Dashboard App
 
-Languages Used: C# / .NET Framework
+A comprehensive **C# Windows Forms** application featuring a dynamic dashboard that connects to multiple utility tools:
+
+- **IP Validator**
+- **Basic Calculator**
+- **Lottery Number Generator**
+- **Currency Exchange Tool**
+- **Temperature Converter**
+
+## Key Features:
+- Interactive data validation
+- File handling capabilities
+- Graphical representations for an intuitive user experience
+
