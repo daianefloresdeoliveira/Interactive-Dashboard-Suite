@@ -1,0 +1,2 @@
+100 C=212   F   ,	25/07/2023    10:03	Water Boils
+-40 F=-40   C   ,	25/07/2023    10:03	Extremely Cold Day - (and the same number!)
